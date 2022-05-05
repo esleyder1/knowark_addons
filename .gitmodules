@@ -1,0 +1,36 @@
+[submodule "nubark_odoo_customizations"]
+	path = nubark_odoo_customizations
+	url = https://git.knowark.com/nubark-nubark/nubark_odoo_customizations.git
+	branch = 15.0
+[submodule "stock"]
+	path = stock
+	url = https://git.knowark.com/odoo/addons/stock.git
+	branch = 15.0
+[submodule "account"]
+	path = account
+	url = https://git.knowark.com/odoo/addons/account.git
+	branch = 15.0
+[submodule "hr"]
+	path = hr
+	url = https://git.knowark.com/odoo/addons/hr.git
+	branch = 15.0
+[submodule "web"]
+	path = web
+	url = https://git.knowark.com/odoo/addons/web.git
+	branch = 15.0
+[submodule "project"]
+	path = project
+	url = https://git.knowark.com/odoo/addons/project.git
+	branch = 15.0
+[submodule "sale"]
+	path = sale
+	url = https://git.knowark.com/odoo/addons/sale.git
+	branch = 15.0
+[submodule "enterprise"]
+	path = enterprise
+	url = https://github.com/odoo/enterprise.git
+	branch = 15.0
+[submodule "odoo"]
+	path = odoo
+	url = https://github.com/odoo/odoo.git
+	branch = 15.0
